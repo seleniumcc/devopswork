@@ -1,0 +1,30 @@
+>mkdir mywork
+
+>cd mywork
+
+mywork>git init
+
+>touch readme.txt # create a new file
+
+> git add <file Name> # or git add ./ adding all files
+
+>git commit 'commit message'
+
+>git remote add origin httos://github.com/repopath/reponame.git
+
+>git push -u origin master # or branch name
+
+# or
+> git push -u origin main
+
+
+
+# some usefull git commands
+
+>git branch
+>git status
+
+
+
+
+ 
